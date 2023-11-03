@@ -1,0 +1,116 @@
+Tourism.html
+
+<html>
+    <body>
+        <a href="file:///C:/web%20code/chennai.html">About us</a>
+        <a href="file:///C:/web%20code/contact.html">Contact us</a>
+        <a href="file:///C:/web%20code/climate.html">Climate</a>
+        <br>
+        <h1>Chennai Tourism</h1>
+        <p>There is no wonder in calling Chennai as an exotic state as it preserves its deep-rooted traditions and age-old heritage.<br>
+            According to the new party history, instead of being named Madras, it was named Chennai, after a village called Chennapattanam, in honour of Damarla Chennapa Naick, father of Damerla Venkatadri Naick, who controlled the entire coastal country from Pulicat in the north to the Portuguese settlement of Santhome.<br>
+            Chennai is the cultural capital of South India. This 350 years old city has the vibe of young hearts. British had a stronghold on Madras during the independence era and did many good to the city.<br>
+            They were the prime reason for the drastic development of Chennai city, which was once just a forest land.<br>
+            The northen part of Chennai is primarily an industrial area, and the central part is the commercial heart of the city. Whereas South and west chennai are mostly residential areas.<br>
+            Kodambakkam is the cinema hub of Kollywood, filled with lots of film industries, studios and cinema sets.  Irrespective of the metropolis heart Chennai perfectly balances its old heritage and the modern vibe.<br>
+            It’s a sight to behold the Chennai’s skyline which is brimming with skyscrapers.  Once you were at Chennai you will quickly adapt to its hustle bustle and will tend to love its multi face.<br><br>
+        </p>
+        <h2>Images</h2>
+        <img src="C:\Users\Dhana\Downloads\download (1).jpg" alt="Chennai City">
+        <img src="C:\Users\Dhana\Downloads\download (2).jpg" alt="Chennai">
+        <img src="C:\Users\Dhana\Downloads\download (3).jpg" alt="city">
+        <br><br>
+        <h2>History</h2>
+        <iframe src="file:///C:/web%20code/chennai.html" height="200" width="800"></iframe>
+        <br>
+    </body>
+</html>
+
+Chennai.html
+
+<html>
+    <head>About Us</head>
+    <body>
+        <h2>Chennai</h2>
+        <p>Chennai, on the Bay of Bengal in eastern India, <br>
+        is the capital of the state of <b>Tamil Nadu.</b> <br>
+        The city is home to Fort St. George, built in 1644 and <br>
+        now a museum showcasing the city’s roots as a British military garrison and <br>
+        East India Company trading outpost, when it was called Madras.<br>
+        Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods,<br>
+        and St. Mary’s, a 17th-century Anglican church.</p>
+    </body>
+</html>
+
+Contact us
+
+<html>
+    <head></head>
+    <body>
+        <h2>Contact Us</h2>
+        <form>
+            <input type="text" placeholder="Name">
+            <br><br>
+            <input type="text" placeholder="E-Mail">
+            <br><br>
+            <input type="number" placeholder="Phone number">
+            <br><br>
+            <textarea placeholder="Address"></textarea>
+            <br><br>
+            <input type="text" Placeholder="City">
+            <br><br>
+            <textarea placeholder="Message"></textarea>
+            <br><br>
+            <button>Submit</button>
+        </form>
+    </body>
+</html>
+
+Climate
+
+<html>
+    <head>
+        <link rel="stylesheet" href="sheet6.css">
+        <title>Climate</title>
+    </head>
+    <body>
+        <h2>Climate in Chennai</h2>
+        <table>
+            <tr>
+                <th>Month</th>
+                <th>Celsius</th>
+                <th>Fahrenheit</th>
+            </tr>
+            <tr>
+                <td>January</td>
+                <td>26.5</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Feburary</td>
+                <td>27</td>
+                <td>81</td>
+            </tr>
+            <tr>
+                <td>March</td>
+                <td>28.5</td>
+                <td>83</td>
+            </tr>
+            <tr>
+                <td>April</td>
+                <td>29.5</td>
+                <td>85</td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+Style sheet
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 20px;
+}
